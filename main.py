@@ -6,6 +6,13 @@ third Touched by user3
 
 Touched by user1
 
+for i in range(100):
+    
+    if i == 10:
+        print("10")
+
+
+
 import sys
 from PyQt5.QtWidgets import *
 from PyQt5.QtGui import *
