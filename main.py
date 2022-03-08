@@ -8,6 +8,7 @@ Touched by user1
 
 for i in range(100):
     
+    def
     if i == 10:
         print("10")
 
