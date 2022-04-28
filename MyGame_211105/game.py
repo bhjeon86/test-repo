@@ -93,7 +93,7 @@ class Actor():
         dX = random.uniform(-20, 20)
         dY = random.uniform(-20, 20)  
         newX = self.centerX + dX
-        newY = self.centerX + dY
+        newY = self.centerY + dY
 
         if newX < nX*0.1  or newX > nX*0.5 or newY < nY*0.1 or newY > nY*0.5:
             pass
