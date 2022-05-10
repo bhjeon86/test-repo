@@ -1,5 +1,5 @@
 #developer bhjeon 2022.05.10
-#co-developer brian 2022.05.10
+#co-developer brian 2022.05.10 collabo
 
 
 import pygame  # pygame 라이브러리를 가져와라.
