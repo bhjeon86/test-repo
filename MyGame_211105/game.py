@@ -1,3 +1,6 @@
+#co-developer brian 2022.05.10
+
+
 import pygame  # pygame 라이브러리를 가져와라.
 import pygame as pg #pygame 라이브러리를 pg 라는 이름으로 가져와라.
 from pygame.locals import *
